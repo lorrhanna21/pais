@@ -1,0 +1,209 @@
+@charset "utf-8";
+body footer {
+  
+	height: 102px;
+	width: 1004px;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+	margin-top: 0px;
+	margin-bottom: 0px;
+
+}
+footer div h4 {
+    margin-left: auto;
+    margin-right: auto;
+    left: auto;
+    right: auto;
+    padding-left: 350px;
+    padding-right: auto;
+    padding-top: 5px;
+    color: #FBF8F8;
+}
+
+footer div h5 {
+    padding-left: 0px;
+    margin-left: 10px;
+    margin-right: 10px;
+    color: #FCF9F9;
+}
+.contenedor .main img {
+    padding-left: auto;
+    padding-right: auto;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 30px;
+}
+.encabezado .contenedor .logotipo {
+    color: #FBF7F7;
+    padding-left: 650px;
+    padding-right: 350px;
+}
+.main #planea {
+     margin-right: 550px;
+	
+}
+.main #viaja {
+     margin-left: 700px;
+	
+}
+.main #Disfruta {
+    margin-right: 550px;
+}
+.main #plan {
+    margin-left: 650px;
+}
+
+
+
+#carazo figure img {
+    margin-left: 30px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+article #carazo p {
+    margin-left: 650px;
+    float: none;
+    height: 0px;
+    max-height: 40px;
+}
+article #carazo h3 {
+    margin-top: 10px;
+    padding-top: 20px;
+    padding-left: 650px;
+}
+#carazo figure img {
+
+
+
+}
+#granada figure img {
+    margin-left: 30px;
+    margin-bottom: 50px;
+    clear: both;
+}
+article #granada h3 {
+    margin-left: 650px;
+}
+article #granada p {
+    margin-left: 650px;
+}
+section div form {
+    margin-right: 900px;
+    list-style-position: inside;
+    color: #0000;
+}
+body section {
+
+}
+#departamentos article {
+    background-color: #AC983C;
+}
+.main h3 {
+    margin-left: 650px;
+    color: #FCF7F7;
+}
+/*.main {
+    background-color: #F58A21;
+}*/
+#nav ul li {
+    /* [disabled]vertical-align: baseline; */
+    list-style-type: none;
+    float: left;
+    padding-left: 100px;
+    background-color: #FCF4F4;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+
+}
+li span a {
+    padding-right: 100px;
+    margin-left: 30px;
+    margin-right: 10px;
+}
+.contenedor .main img {
+}
+.encabezado {
+}
+.main {
+    background-color: #0D0D0D;
+}
+.main figcaption h5 {
+    background-color: #0D0D0D;
+}
+.encabezado {
+    background-color: #0D0D0D;
+}
+.encabezado {
+    background-color: #0D0D0D;
+}
+.encabezado {
+}
+.encabezado {
+}
+#planea div h4 {
+    color: #FBF7F7;
+    padding-left: 250px;
+}
+.main h3 {
+    margin-top: 20px;
+    padding-top: 20px;
+}
+
+
+#planea div p {
+    color: #F8EFEF;
+}
+section div h3 {
+    padding-left: 130px;
+}
+.main #planea {
+}
+#departamentos {
+
+}
+article #carazo h3 {
+    padding-right: 239px;
+}
+footer div h4 {
+    padding-right: 150px;
+}
+
+
+
+
+
+#viaja div h4 {
+    color: #FDF7F7;
+    padding-left: 250px;
+}
+#viaja div p {
+    color: #FBF7F7;
+}
+#Disfruta div h4 {
+    color: #F8F3F3;
+    padding-left: 250px;
+}
+#Disfruta div p {
+    color: #F8F3F3;
+    padding-left: 250px;
+}
+.main #plan div {
+    color: #FDF7F7;
+    padding-left: 250px;
+}
+div figure img {
+    padding-right: 660px;
+}
+.contenedor .main img {
+    color: #000000;
+}
+div figure img {
+    margin-left: 250px;
+}
+div figure img {
+    padding-right: 250px;
+}
+#departamentos article {
+}
